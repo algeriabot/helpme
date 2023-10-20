@@ -8,7 +8,7 @@ import time
 # Constants
 SYSTEM_INFO = "Linux (Ubuntu 20.04)"
 #SYSTEM_INFO = "Windows 10"
-openai.api_key = os.getenv('OPENAI_API_KEY')
+openai.api_key = "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"
 
 # Message list
 message_list = [
